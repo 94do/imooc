@@ -1,0 +1,17 @@
+{
+  "name": "imooc",
+  "description": "study",
+  "main": "app.js",
+  "authors": [
+    "yzy"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/hiwords/imooc",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.10.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiwords/imooc.git"
+  },
+  "author": "yzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiwords/imooc/issues"
+  },
+  "homepage": "https://github.com/hiwords/imooc#readme"
+}
